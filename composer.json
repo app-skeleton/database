@@ -1,5 +1,5 @@
 {
-	"name":        "kohana/database",
+	"name":        "app-skeleton/database",
 	"type":        "kohana-module",
 	"description": "The official Kohana module for database interactions, building queries, and prepared statements",
 	"homepage":    "http://kohanaframework.org",
@@ -21,7 +21,6 @@
 	},
 	"require": {
 		"composer/installers": "~1.0",
-		"kohana/core":         ">=3.3",
 		"php":                 ">=5.3.3"
 	},
 	"suggest": {
